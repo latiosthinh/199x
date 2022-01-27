@@ -13,13 +13,7 @@ const Home = () => {
 			</div>
 
 			<style jsx>{`
-				.h1 {
-					font-size: 1.9em;
-					margin-bottom: 19px;
-					background: -webkit-linear-gradient(var(--gray), var(--orange));
-								-webkit-background-clip: text;
-								-webkit-text-fill-color: transparent;
-				}
+				
 			`}</style>
 		</div>
 	)
